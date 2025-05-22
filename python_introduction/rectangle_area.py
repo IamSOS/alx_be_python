@@ -1,4 +1,4 @@
-lenght = 10
+length = 10
 width = 5
-area = lenght * width
+area = length * width
 print(f"The area is:{Area}")
