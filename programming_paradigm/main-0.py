@@ -29,7 +29,7 @@ def main():
             print(f"Withdrew: ${amount}")
         else:
             print("Insufficient funds.")
-    elif command == "display":
+    elif command == "display_balance":
         account.display_balance()
     else:
         print("Invalid command or missing amount.")
